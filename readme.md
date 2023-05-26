@@ -1,0 +1,5 @@
+-   课程网站：[https://inst.eecs.berkeley.edu/~cs61a/fa20/](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
+-   课程视频: [UCB CS 61A: Computer Programs, Fall 2020](https://www.bilibili.com/video/BV1s3411G7yM/?spm_id_from=333.337.search-card.all.click&vd_source=196e9da8ee49a7879635d5a22229e6b3)
+-   课程教材：[http://composingprograms.com/](http://composingprograms.com/)
+-   课程教材中文翻译：[https://composingprograms.netlify.app/](https://composingprograms.netlify.app/)
+-   课程作业：课程网站会有每个作业对应的文档链接以及代码框架的下载链接。
